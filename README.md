@@ -17,8 +17,11 @@ amazon-like store front utilizing MySQL and node.js
 
 ![manager4](https://raw.github.com/TomSmaj/bamazon/master/pics/Inkedmanager4.jpg)
 
+For adding more inventory, you enter the id of the item to increase and it increases it by 1.
+You enter * when you're done add inventory and it moves on
+
 ![manager5](https://raw.github.com/TomSmaj/bamazon/master/pics/Inkedmanager5_LI.jpg)
 
-![manager6](https://raw.github.com/TomSmaj/bamazon/master/pics/customer6.PNG)
+![manager6](https://raw.github.com/TomSmaj/bamazon/master/pics/manager6.PNG)
 
-![manager7](https://raw.github.com/TomSmaj/bamazon/master/pics/customer7.PNG)
+![manager7](https://raw.github.com/TomSmaj/bamazon/master/pics/manager7.PNG)
